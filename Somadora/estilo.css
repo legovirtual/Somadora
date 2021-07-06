@@ -22,7 +22,8 @@
      cursor: pointer;
  }
  #addbor{
-    height: 40px;
+    min-height: 40px;
+    max-height: 100px;
     margin-top: 15px;
     border-radius: 5px;
     background-color: rgb(163, 162, 162);
